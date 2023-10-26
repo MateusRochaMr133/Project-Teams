@@ -1,0 +1,8 @@
+.top-bar-cabecalho{
+    margin: 2px solid red;
+    border: solid green;
+    justify-content: space-between;
+    display: block;
+    font-size: 20px;
+    text-align: center;
+}
